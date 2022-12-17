@@ -8,7 +8,7 @@ You Can Check The Deployed App On [Streamlit](https://amanastro7-lappy-price-pre
 
 Here's a screenshot of the same:
 
-![STREAMLIT SCREENSHOT](https://github.com/amanastro7/email-sms-spam-classifier/blob/main/images/streamlit_img.png)
+![STREAMLIT SCREENSHOT](https://github.com/amanastro7/lappy-price-prediction-using-ml/blob/main/images/lappy_st.png)
 
 Also Deployed On [HuggingFace Space](https://huggingface.co/spaces/amanastro07/sms-email-spam-clsfr)
 (but it loads painfully slow as it is running on CPU).
