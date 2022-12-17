@@ -55,5 +55,5 @@ The **RANDOM FOREST ALGORITHM** gave us a better metrics >>> **R<sup>2</sup> SCO
 
 
 
-## VIDEO DEMO OF THE WE APP
-https://github.com/amanastro7/lappy-price-prediction-using-ml/blob/main/images/lappypred_vid_st.mp4
+## VIDEO DEMO OF THE WEB APP
+![VIDEO DEMO](https://github.com/amanastro7/lappy-price-prediction-using-ml/blob/main/images/lappypred_vid_st.mp4)
