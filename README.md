@@ -31,11 +31,11 @@ The dataset used for this project was found on [Kaggle](https://www.kaggle.com/d
 
 ## MACHINE LEARNING MODEL USED ⚙️🛠️
 
-A random forest is a type of supervised machine learning algorithm that can be used for both classification and regression tasks. It is an ensemble model, which means that it is composed of multiple individual decision trees that work together to make predictions.
+A **Random Forest** is a type of supervised machine learning algorithm that can be used for both classification and regression tasks. It is an ensemble model, which means that it is composed of multiple individual decision trees that work together to make predictions.
 
-In a random forest regressor, each decision tree in the ensemble is trained to make predictions based on a random subset of the features in the dataset. The final prediction made by the random forest is the average of the predictions made by each decision tree.
+In a **Random Forest Regressor**, each decision tree in the ensemble is trained to make predictions based on a random subset of the features in the dataset. The final prediction made by the random forest is the average of the predictions made by each decision tree.
 
-Here's a simple example of how a random forest regressor might work:
+Here's a simple example of how a **Random Forest Regressor** works:
 
 First, the dataset is split into a training set and a test set.
 Next, a number of decision trees are trained on the training set.
@@ -56,6 +56,6 @@ The **RANDOM FOREST ALGORITHM** gave us a better metrics >>> **R<sup>2</sup> SCO
 
 
 ## VIDEO DEMO OF THE WEB APP
-Press ▶️ this button to watch the video.
+Press ▶️ button to watch the video.
 
 https://user-images.githubusercontent.com/56089248/208248892-0eb14139-2118-498d-a9d4-1e3e525e693a.mp4
