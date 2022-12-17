@@ -49,3 +49,6 @@ One of the main benefits of using a random forest is that it can reduce overfitt
 
 
 ## MODEL SCORES 📊📉
+The Dataset was trained on various regression algorithms like **LinearRegression, Ridge, Lasso, KNeighborsRegressor, DecisionTreeRegressor, RandomForestRegressor, GradientBoostingRegressor, AdaBoostRegressor, ExtraTreesRegressor, SVR and XGBRegressor**.
+
+The **RANDOM FOREST ALGORITHM** gave us a better metrics >>> **R<sup>2</sup> SCORE of the model was 0.88** and **MAE (Mean Absolute Error) was 0.16**.
