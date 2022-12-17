@@ -25,7 +25,7 @@ The LAPTOP PRICE PREDICTOR is a machine learning web application that is designe
 
 
 ## DATASET 📁
-The dataset used for this project was found on [Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset). The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged ham (legitimate) or spam.
+The dataset used for this project was found on [Kaggle](https://www.kaggle.com/datasets/mohidabdulrehman/laptop-price-dataset). The dataset is about laptops configuration with prices containing 1303 laptop data with 12 columns Company Name, Type Name, Laptop Size in (inches), Screen Resolution, CPU, RAM, Memory, GPU, Operating System And Price in INR.
 
 
 
