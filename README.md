@@ -56,4 +56,6 @@ The **RANDOM FOREST ALGORITHM** gave us a better metrics >>> **R<sup>2</sup> SCO
 
 
 ## VIDEO DEMO OF THE WEB APP
+Press ▶️ this button to watch the video.
+
 https://user-images.githubusercontent.com/56089248/208248892-0eb14139-2118-498d-a9d4-1e3e525e693a.mp4
