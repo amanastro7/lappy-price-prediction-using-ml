@@ -1,5 +1,5 @@
-# EMAIL - SMS SPAM🚫 CLASSIFIER
-![Display Image](https://github.com/amanastro7/email-sms-spam-classifier/blob/main/spam.jpg)
+# PRICE💰 PREDICTION OF LAPTOPS👨‍💻 USING MACHINE LEARNING🤖
+![Display Image](https://github.com/amanastro7/lappy-price-prediction-using-ml/blob/main/images/gh_laptops.jpeg)
 
 
 
