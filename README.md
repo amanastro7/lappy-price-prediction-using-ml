@@ -31,6 +31,21 @@ The dataset used for this project was found on [Kaggle](https://www.kaggle.com/d
 
 ## MACHINE LEARNING MODEL USED ⚙️🛠️
 
+A random forest is a type of supervised machine learning algorithm that can be used for both classification and regression tasks. It is an ensemble model, which means that it is composed of multiple individual decision trees that work together to make predictions.
+
+In a random forest regressor, each decision tree in the ensemble is trained to make predictions based on a random subset of the features in the dataset. The final prediction made by the random forest is the average of the predictions made by each decision tree.
+
+Here's a simple example of how a random forest regressor might work:
+
+First, the dataset is split into a training set and a test set.
+Next, a number of decision trees are trained on the training set.
+For each decision tree, a random subset of the features is selected and used to make predictions.
+The predictions made by each decision tree are combined, and the final prediction is the average of all the individual predictions.
+Here's a diagram illustrating the process:
+
+![Random Forest Regressor](https://github.com/amanastro7/lappy-price-prediction-using-ml/blob/main/images/Random_forest_diagram_complete.png)
+
+One of the main benefits of using a random forest is that it can reduce overfitting, which is a problem that can occur when a model is too complex and has too many parameters. By training multiple decision trees and averaging their predictions, the random forest is able to "smooth out" the predictions and make more accurate and stable predictions.
 
 
 ## MODEL SCORES 📊📉
