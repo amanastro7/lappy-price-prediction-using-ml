@@ -15,12 +15,12 @@ Also Deployed On [HuggingFace Space](https://huggingface.co/spaces/amanastro07/s
 
 Here's a screenshot of the same:
 
-![HUGGING FACE SPACE SCREENSHOT](https://github.com/amanastro7/email-sms-spam-classifier/blob/main/images/image.png)
+![HUGGING FACE SPACE SCREENSHOT]()
 
 
 
 ## SUMMARY 📝
-An EMAIL SMS SPAM CLASSIFIER is a machine learning web application that is designed to identify and classify spam messages in email and SMS (short message service) communication channels. The web application uses machine learning algorithms to analyze the content and features of incoming messages and determine whether they are likely to be spam or legitimate. This can help to protect users from phishing scams, fraudulent offers, and other forms of spam that can be harmful or annoying. The machine learning model is trained on a dataset of labeled spam and non-spam messages, and it can be updated and improved over time as new spam messages are encountered.
+The LAPTOP PRICE PREDICTOR is a machine learning web application that is designed predict the price of a laptop based on various specs such as processor type, memory size, storage capacity, screen resolutions, etc. The model was trained using a random forest regressor, which is a type of ensemble learning algorithm that uses multiple decision trees to make predictions. The training data included a range of laptop prices and features, and the model was able to learn the relationships between these variables. Once trained, the model was able to make good predictions on new data, allowing users to have a better understanding of how much they should expect to pay for a laptop with certain specifications.
 
 
 
