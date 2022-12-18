@@ -10,7 +10,7 @@ Here's a screenshot of the same:
 
 ![STREAMLIT SCREENSHOT](https://github.com/amanastro7/lappy-price-prediction-using-ml/blob/main/images/lappy_st.png)
 
-Also Deployed On [HuggingFace Space](https://huggingface.co/spaces/amanastro07/sms-email-spam-clsfr)
+Also Deployed On [HuggingFace Space](https://huggingface.co/spaces/amanastro07/lappy-price-predictor)
 (but it loads painfully slow as it is running on CPU).
 
 Here's a screenshot of the same:
