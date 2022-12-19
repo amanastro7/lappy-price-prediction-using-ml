@@ -15,8 +15,7 @@ Also Deployed On [HuggingFace Space](https://huggingface.co/spaces/amanastro07/l
 
 Here's a screenshot of the same:
 
-![HUGGING FACE SPACE SCREENSHOT]()
-
+![HUGGING FACE SPACE SCREENSHOT](https://user-images.githubusercontent.com/56089248/208342444-423cfb7f-8d1b-421e-b3b1-921e839b51e4.png)
 
 
 ## SUMMARY 📝
