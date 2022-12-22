@@ -2,6 +2,11 @@
 ![Display Image](https://github.com/amanastro7/lappy-price-prediction-using-ml/blob/main/images/gh_laptops.jpeg)
 
 
+## USE CASE
+A company that sells laptops is interested in using machine learning to predict the prices of their laptops. They have a large dataset of past laptop sales, including details such as the make and model of the laptop, the age of the laptop, the condition of the laptop, and the final sale price.
+
+The company could use this data to train a machine learning model that predicts the sale price of a laptop based on these features. They could then create a web application that allows users to input information about a laptop they are interested in selling (such as the make and model, age, and condition) and receive a prediction of the likely sale price.
+
 
 ## WEB APP 🖥️
 You Can Check The Deployed App On [Streamlit](https://amanastro7-lappy-price-prediction-using-ml-lappy-6ilv4i.streamlit.app/).
